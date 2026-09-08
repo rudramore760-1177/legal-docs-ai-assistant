@@ -74,8 +74,8 @@ The system is built as a full retrieval pipeline rather than a single API call: 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/legal-ai-assistant.git
-   cd legal-ai-assistant
+   git clone https://github.com/rudramore760-1177/legal-docs-ai-assistant.git
+cd legal-docs-ai-assistant
    ```
 
 2. Create and activate a virtual environment:
