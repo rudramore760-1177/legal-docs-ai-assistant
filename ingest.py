@@ -19,3 +19,5 @@ storage_context = StorageContext.from_defaults(vector_store=vector_store)
 
 index = VectorStoreIndex.from_documents(documents, storage_context=storage_context)
 print("Index built and saved to ./chroma_db")
+
+

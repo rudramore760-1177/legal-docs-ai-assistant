@@ -74,8 +74,8 @@ The system is built as a full retrieval pipeline rather than a single API call: 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/legal-ai-assistant.git
-   cd legal-ai-assistant
+   git clone https://github.com/rudramore760-1177/legal-docs-ai-assistant.git
+cd legal-docs-ai-assistant
    ```
 
 2. Create and activate a virtual environment:
@@ -115,12 +115,4 @@ Example questions to try:
 - [ ] Automated evaluation pipeline using [Ragas](https://github.com/explodinggradients/ragas) (faithfulness, answer relevancy, context precision)
 - [ ] Multi-turn conversational memory for follow-up questions
 - [ ] Support for scanned/OCR'd PDFs and DOCX files
-- [ ] Optional password-gated access for shared deployments
-
-## Acknowledgements
-
-Built as a personal learning project to understand end-to-end RAG system design — from document ingestion through retrieval to grounded generation — using [Claude](https://claude.ai) as a technical guide throughout the build and debugging process.
-
-## License
-
-MIT
+- [ ] Optional password-gated access for shared deployment
